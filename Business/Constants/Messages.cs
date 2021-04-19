@@ -15,5 +15,9 @@ namespace Business.Constants
         public static string UserNotFound = "Böyle bir kullanıcı bulunamadı.";
         public static string PasswordError = "Geçersiz parola";
         public static string SuccessfulLogin = "Bşarılı Giriş";
+        public static string SuccessCreateAccount = "Kayıt başarılı";
+        public static string AddFile = "Dosya başarıyla eklendi.";
+        public static string DeleteFile = "Dosya başarıyla silindi.";
+        public static string UploadFile = "Dosya başarıyla güncellendi.";
     }
 }
